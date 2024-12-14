@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: using uninitialized variables in arithmetic operations.  The `bug.pl` file shows the erroneous code. The `bugSolution.pl` file provides a corrected version, showcasing best practices for handling uninitialized variables.  Always initialize your variables to avoid unexpected results and make your code more robust and readable.
